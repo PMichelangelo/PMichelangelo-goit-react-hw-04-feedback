@@ -31,7 +31,7 @@
   border-radius: 10px;
   font-size: 15px;
   cursor: pointer;
-  transition: 300ms ease-in-out;
+  transition: 350ms ease-in-out;
 }
 
 .btn:hover {
